@@ -1,0 +1,8 @@
+myikeashop/
+ ├── index.html
+ ├── style.css
+ └── images/
+      ├── banner.jpg
+      ├── chair.jpg
+      ├── table.jpg
+      └── sofa.jpg
